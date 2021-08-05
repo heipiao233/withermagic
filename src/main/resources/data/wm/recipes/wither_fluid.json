@@ -1,0 +1,11 @@
+{
+  "type": "wm:wither_extractor",
+  "input": {
+    "id": "wm:nether_star_block",
+    "count": 1
+  },
+  "output": {
+    "id": "wm:wither_fluid",
+    "amount": 9000
+  }
+}

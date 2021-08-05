@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "wm:wither_fluid",
+      "wm:wither_fluid_flowing"
+    ]
+  }
+  
